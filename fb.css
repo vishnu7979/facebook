@@ -1,0 +1,138 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.logotext{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-contol{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+   
+}
+.forgotten{
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color:#fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: darkblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px
+}   
+.right-section{
+    width: 40%;
+    float: left;
+
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.fname{
+float: left;
+border-radius: 4px;
+height: 24px;
+
+}
+ 
+.email{
+    margin-top: 10px;
+    width: 342px;
+    float: left;
+border-radius: 4px;
+height: 24px;
+    
+
+}
+.password{
+    margin-top: 15px;
+    width: 342px;
+    float: left;
+border-radius: 4px;
+height: 24px;
+border-radius: 4px;
+
+}
+.sname{
+    margin-left: 7px;
+    float: left;
+border-radius: 4px;
+height: 24px;
+width: 159px;
+}
+.gender{
+    margin-top: 11px;
+}
+.birthday{
+    margin-top: 24px;
+}
+.date{
+    margin-top: -11px;
+}
+.write{
+    font-size: 11px;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 3px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 6px 2px;
+    cursor: pointer;
+    border-radius: 7px;
+}           
+.write{
+    text-decoration: none;
+}
+.footer{
+    font-size: small;
+    padding: 20px;
+    text-decoration: none;
+    margin-left: 137px;
+}
